@@ -1,0 +1,26 @@
+body {
+    font-family: Georgia;
+    font-size: 60px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #FC2;
+    padding: 30px;
+    height: 3000px;
+    position: relative;
+}
+
+.first {
+    background-color: #CCC;
+}
+
+.second {
+    background-color: #999;
+}
+
+.third {
+    background-color: #333;
+    color: #FFF;
+}
