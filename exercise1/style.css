@@ -1,0 +1,21 @@
+.cool-box {
+    padding: 10px;
+    border: 2px solid black;
+
+    width: 600px;
+    margin: 0px auto 10px auto;
+}
+
+header {
+    background-color: green;
+}
+
+main {
+    background-color: #0000FF;
+    color: #FFFFFF;
+}
+
+footer {
+    background-color: red;
+    color: #FFFFFF;
+}
